@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СД 1.1", "СД 1.1.csproj", "{A7E6B4B3-280B-4C95-B782-5D61D970CC16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{929A2A12-64F3-4384-ABF0-76E2C9336AF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СД 2", "..\СД 2\СД 2.csproj", "{4109274A-708F-4826-914C-C082FCBB8070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E6B4B3-280B-4C95-B782-5D61D970CC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E6B4B3-280B-4C95-B782-5D61D970CC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E6B4B3-280B-4C95-B782-5D61D970CC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E6B4B3-280B-4C95-B782-5D61D970CC16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4109274A-708F-4826-914C-C082FCBB8070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4109274A-708F-4826-914C-C082FCBB8070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4109274A-708F-4826-914C-C082FCBB8070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4109274A-708F-4826-914C-C082FCBB8070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47E8A229-C123-43E6-AFA4-459B1F0A38F3}
+	EndGlobalSection
+EndGlobal

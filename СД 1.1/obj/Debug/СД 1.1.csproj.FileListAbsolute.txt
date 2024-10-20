@@ -1,0 +1,7 @@
+C:\Users\dashe\source\repos\СД 1.1\bin\Debug\СД 1.1.exe.config
+C:\Users\dashe\source\repos\СД 1.1\bin\Debug\СД 1.1.exe
+C:\Users\dashe\source\repos\СД 1.1\bin\Debug\СД 1.1.pdb
+C:\Users\dashe\source\repos\СД 1.1\obj\Debug\СД 1.1.csproj.AssemblyReference.cache
+C:\Users\dashe\source\repos\СД 1.1\obj\Debug\СД 1.1.csproj.CoreCompileInputs.cache
+C:\Users\dashe\source\repos\СД 1.1\obj\Debug\СД 1.1.exe
+C:\Users\dashe\source\repos\СД 1.1\obj\Debug\СД 1.1.pdb
